@@ -9,14 +9,11 @@ Web link- [Click here](https://avinash201199.github.io/Avinash-Singh)
 Give feedback about how you feel about this repository.
 CONTACT ME:
 <br><br>
-[<img align="left" alt="Notepad Tricks" width="34px" src="https://img.icons8.com/office/48/000000/globe.png" />][website]
+[<img align="left" alt="Notepad Tricks" width="34px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][website]
 [<img align="left" alt="Kartikey's LinkedIn" width="34px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>][linkedin]
-[<img align="left" alt="Kartikey's Instagram" width="34px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="Kartikey's Facebook" width="34px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />][fb]
+[<img align="left" alt="Kartikey's Instagram" width="34px" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" />][github]
 
 
 [website]: https://avinash201199.github.io/Avinash-Singh/
-[instagram]: https://www.instagram.com/lets__code/
-[linkedin]: https://www.linkedin.com/in/avinash-singh-071b79175/
+[linkedin]: https://www.linkedin.com/in/mahesh-wankhede-/
 [Github]: https://github.com/avinash201199
-[fb]: https://www.facebook.com/profile.php?id=100007132384595
