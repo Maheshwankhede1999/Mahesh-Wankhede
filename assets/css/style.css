@@ -490,6 +490,25 @@ section .container {
   transition: .9s;
   background-color: #18d26e;
 }
+.download-button-container {
+  display: inline-block; /* Allows the button to fit its content */
+  margin: 20px; /* Optional: Adds space around the button */
+}
+
+.download-button {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 16px;
+  transition: background-color 0.3s;
+}
+
+.download-button:hover {
+  background-color: darkgreen;
+}
 
 /*--------------------------------------------------------------
 # Interests
